@@ -99,7 +99,7 @@ Siga os passos abaixo:
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a licença **MIT**. Sinta-se à vontade para usar, compartilhar e modificar o conteúdo.
+Este projeto está licenciado sob a licença **CC BY-NC**. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
 
 ---
 
